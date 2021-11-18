@@ -1,6 +1,7 @@
 ## Olá! Sou o Junior.
 Sou desenvolvedor Java. Atualmente trabalhando em um projeto privado.
 Não pretendo colocar o projeto aqui e sim linhas de código na qual compartilhar para ajudar outros desenvolvedores.
+Coloquei técnicas que uso, estes arquivos são partes complexas de um sistema em java. Copiar e por pra rodar não vai funcionar, precisa de toda uma estrutura, aqui estão apenas métodos e técnicas.
 
 <div align="center">
   <a href="https://github.com/DeusNaFrente">
