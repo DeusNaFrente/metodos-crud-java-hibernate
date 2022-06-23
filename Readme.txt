@@ -1,0 +1,1 @@
+Este arquivo é um simples controler, o objetivo de por ele aqui seria para disponibilizar os metodos salvar, editar e excluir usando java com hibernate.
